@@ -1,0 +1,19 @@
+#Command prompt commands
+
+git config --global user.name "username"
+
+git config --global user.name "username@gmail.com"
+
+#git commands in vs code
+
+git init
+
+git clone repo.git
+
+cd MlOps
+
+git add . 
+
+git commit -m "message"
+
+git push origin main
